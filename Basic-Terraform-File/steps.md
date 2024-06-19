@@ -1,23 +1,23 @@
 After installing Terraform and AWS CLI and configuring credentials.Follow below steps
 
-# Create main.tf file using below command:
+## Create main.tf file using below command:
 
 ```bash
 touch main.tf
 ```
 Write basic terraform script provided in main.tf
 
-# Initialize Terraform:
+## Initialize Terraform:
 
 ```bash
 terraform init
 ```
-# Plan Terraform code:
+## Plan Terraform code:
 
 ```bash
 terraform plan
 ```
-# Apply the code:
+## Apply the code:
 
 ```bash
 terraform apply
