@@ -7,6 +7,9 @@ Clone the below repo using git clone command and navigate to the root folder and
 ```bash
 git clone https://github.com/Sumanth484/Terraform.git
 ```
+## Modify Variables
+
+If you want to modify variables, Modify the variable values in .tfvars file.
 
 ## Initialize Terraform:
 
