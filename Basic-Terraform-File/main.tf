@@ -14,7 +14,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "Terraform-example" {
-  ami           = "ami-0f2e255ec956ade7f"  # This is an Ubuntu AMI in us-west-2 region; change it based on your region
+  ami           = "ami-0f2e255ec956ade7f"  # This is an AMI in ap-south-1 region; change it based on your region
   instance_type = "t2.micro"               # Change this to the instance type you need
 
   tags = {
