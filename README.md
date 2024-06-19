@@ -46,6 +46,8 @@ Create main.tf file using below command:
 ```bash
 touch main.tf
 ```
+Write basic terraform script provided in Basic_Terraform-File/main.tf
+
 Initialize Terraform:
 
 ```bash
