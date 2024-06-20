@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket         = "your-terraform-state-bucket"
+    bucket         = "statefile-storage-s3-sumanth"
     key            = "terraform.tfstate"
     region         = var.region
   }
