@@ -5,7 +5,7 @@ So one approach is to create a separate folder for each environment and execute 
 But this approach makes it difficult to maintain.
 Terraform-Workspace resolves this issue by creating a separate folder for each state file.
 
-### After installing Terraform and configuring your AWS account, create `main.tf` and `terraform.tfvars` as mentioned in the repo.
+### After installing Terraform and configuring your AWS account, create `main.tf` as mentioned in the repo.
 
 ## To create Terraform workspaces, execute the following commands:
 
